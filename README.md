@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Dozie2001&color=lightgrey)
 
 ## 📈 Git hub status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dozie2001&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytedeveloper&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 
