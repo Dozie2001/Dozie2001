@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am Chidozie Abraham </h1>
+<h1 align="center">Hello 👋, I am Chidozie  David </h1>
 
 ![](https://komarev.com/ghpvc/?username=Dozie2001&color=lightgrey)
 
